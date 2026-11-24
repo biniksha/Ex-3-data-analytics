@@ -1,4 +1,4 @@
-# Ex-3-data-analytics
+# Ex-2-data-analytics
 # EXPERIMENT NO.2 : EXPLORATORY DATA ANALYSIS (EDA)
 
 
